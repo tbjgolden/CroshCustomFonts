@@ -6,5 +6,6 @@ x-screen {
 body {
   position: relative;
   transform: scale(0.94, 1) translateX(-3%);
-  width: 106.383% !important
+  width: 106.383% !important;
+  text-shadow: 0.5px 0.5px 0 rgb(84, 84, 84);
 }

@@ -22,7 +22,3 @@ text-shadow: 0.5px 0.5px 0 rgb(84, 84, 84);
 ```
 
 Have fun :)
-
-<style>
-   li:before { font-weight: bold; margin-right: 15px; }
-</style>
